@@ -1,0 +1,2 @@
+- https://dacon.io/competitions/official/236455/data 
+- 위에 주소에서 데이터를 다운로드 받으세요!
